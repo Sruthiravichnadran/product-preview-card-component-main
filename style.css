@@ -1,0 +1,44 @@
+body{
+    background-color: antiquewhite;
+}
+
+.Total-container{
+    display: flex;
+    margin-top: 8%;
+    margin-left: 30%;
+    
+}
+
+.container-1 img{
+    height: 405px;
+    width: 280px;
+}
+
+.container-2{
+    background-color: white;
+    height: 405px;
+    width: 280px;
+}
+
+.container-2 h1,h5,button{
+    margin-left: 30px;
+    background-color: white;
+}
+
+.container-2 div{
+    display: flex;
+    background-color: white;
+}
+
+.container-2 button{
+    background-color: rgb(2, 23, 2);
+    padding: 10px 70px;
+    border-radius: 8px;
+    color: white;
+    border: none;
+}
+
+.color{
+    font-size: 25px;
+    background-color: white;
+}
